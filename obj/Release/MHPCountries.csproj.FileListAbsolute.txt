@@ -1,0 +1,8 @@
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\bin\Release\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\bin\Release\MHPCountries.pdb
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\obj\Release\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\obj\Release\MHPCountries.pdb
+C:\Work\Winforms\MHPCountries\_code\bin\Release\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\bin\Release\MHPCountries.pdb
+C:\Work\Winforms\MHPCountries\_code\obj\Release\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\obj\Release\MHPCountries.pdb

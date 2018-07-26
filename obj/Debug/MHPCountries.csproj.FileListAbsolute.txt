@@ -1,0 +1,5 @@
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\obj\Debug\MHPCountries.csprojResolveAssemblyReference.cache
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\bin\Debug\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\bin\Debug\MHPCountries.pdb
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\obj\Debug\MHPCountries.dll
+C:\Work\Winforms\MHPCountries\_code\MHPCountries\obj\Debug\MHPCountries.pdb
